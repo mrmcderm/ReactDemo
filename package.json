@@ -1,0 +1,23 @@
+{
+  "name": "reactdemo",
+  "version": "1.0.0",
+  "description": "Demo app for react and typescript, and maybe webpack",
+  "main": "index.js",
+  "dependencies": {
+    "typescript": "^3.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrmcderm/ReactDemo.git"
+  },
+  "author": "Mike McDermott",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrmcderm/ReactDemo/issues"
+  },
+  "homepage": "https://github.com/mrmcderm/ReactDemo#readme"
+}
