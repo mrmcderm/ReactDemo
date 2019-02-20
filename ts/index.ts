@@ -1,4 +1,4 @@
-module Main {
+module Index {
     export interface IHelloWorld {
         Name:  string;
     }
